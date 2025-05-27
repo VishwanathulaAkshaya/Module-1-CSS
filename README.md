@@ -73,7 +73,7 @@ A responsive HTML5 and CSS3-based portal designed to showcase local community ev
 
 ## 🙌 Author
 
-**Name:** Amrutha Chandana
+**Name:** Akshaya
 **Project:** HTML5/CSS3 Practical – Community Event Portal  
 **Purpose:** Educational / College Project
 
